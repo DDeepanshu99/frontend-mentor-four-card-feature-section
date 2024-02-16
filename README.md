@@ -25,7 +25,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshots:-
+## Screenshot
 ### Desktop view
 ![](solution-desktop-version.jpeg)
 ### Mobile view
