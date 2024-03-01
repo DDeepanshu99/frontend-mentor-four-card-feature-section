@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [(https://github.com/DDeepanshu99/frontend-mentor-four-card-feature-section)]
-- Live Site URL: [(https://ddeepanshu99.github.io/frontend-mentor-four-card-feature-section/)]
+- Live Site URL: [(https://web-dev-mini-projects-ddeepanshu99s-projects.vercel.app/)]
 
 ## My process
 
